@@ -1,7 +1,9 @@
 class DataOnly {
+
 	int i;
 	float f;
 	boolean b;
+
 	public static void main (String args []) {
 		DataOnly d = new DataOnly();
 		d.i = 47;
@@ -14,6 +16,3 @@ class DataOnly {
 
 	}
 }
-
-
-
