@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+
+# automatically generated documents #
+*.html
+*.css
+package-list
+resources
